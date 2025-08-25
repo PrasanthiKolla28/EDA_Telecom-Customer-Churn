@@ -1,6 +1,6 @@
 Customer Churn Analysis is conducted to predict behavior of the customer to retain. 
 
-Dataset contains 7043 rows (customers) and 21 columns (customer's attributes)
+Dataset contains 7043 rows (customers) and 21 columns (attributes - describing specific aspect of a transaction)
 
 Information include, 
 1. Customers who left within the last month – the column is called Churn
